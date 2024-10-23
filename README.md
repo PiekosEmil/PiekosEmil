@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emil</h1>
 <h3 align="center">Junior developer from Poland</h3>
 
-- 🤝 I’m looking for a **remote job**
+> [!IMPORTANT]
+> I'm looking for a remote job.
 
 - 📫 How to reach me **piekosemil@gmail.com**
 
