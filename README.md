@@ -8,12 +8,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emil-pi%c4%99ko%c5%9b-b678562b3/" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="emil-pi%c4%99ko%c5%9b-b678562b3/" height="40" width="40" />
-</a>
-      <a href="https://www.facebook.com/emil.piekos.9" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="emil.piekos.9" width="40" height="40"/>
-  </a>
+     <a href="https://linkedin.com/in/emil-pi%c4%99ko%c5%9b-b678562b3/" target="blank" rel="noreferrer">
+          <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="emil-pi%c4%99ko%c5%9b-b678562b3/" height="40" width="40" />
+     </a>
+     <a href="https://www.facebook.com/emil.piekos.9" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="emil.piekos.9" width="40" height="40"/>
+     </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
